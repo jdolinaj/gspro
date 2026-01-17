@@ -1,4 +1,5 @@
-GSPro Keyboard, rev 0.1
+# GSPro Keyboard #
+rev 0.1
 Author: Mobysky Solutions - www.mobysky.com
 
 ## Intro ##
